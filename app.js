@@ -26,5 +26,5 @@ app.get('/',function(req, res) {
 });
 
 app.listen(8080, function () {
-  console.log("escuchando en 8080");
+  console.log("Express server escuchando en 8080");
 })
